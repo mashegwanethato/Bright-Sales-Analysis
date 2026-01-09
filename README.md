@@ -1,7 +1,7 @@
 # Bright-Sales-Analysis
 
 # 📘 Introduction
-The purpose of this project was to analyze the Bright TV data to help assess ways in which Bright TV can grow their subscription base for the financial year
+The purpose of this project was to analyse the sales and assess on which days most sales are made
 
 # 🧰 Tools Used
 Miro – Used for planning the analysis process, outlining the objectives, and mapping out the SQL queries to be used.
